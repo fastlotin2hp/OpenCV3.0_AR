@@ -6,6 +6,8 @@ To run this program you have to have the following stuff ready as follows
   3. Windows OS  
 */
 
+/src
+          contains the source code of this program
 
 SLAM.exe 
           runs on windows OS.
